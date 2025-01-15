@@ -1,6 +1,5 @@
 #I do machine learning in google colab
 import os
-import random
 from PIL import Image
 import pandas as pd
 import torch
